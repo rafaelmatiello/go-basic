@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"package/car"
 )
-
+//go mod init -> para criar o modulo
 func main() {
 
 	c := car.Car{Nome: "BMW"}
